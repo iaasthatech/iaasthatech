@@ -1,8 +1,8 @@
-- 👋 Hi, We are @iaasthatech
-- 👀 We are interested in assisting startups and founders to get into the market smoothly.
-- 🌱 We are currently assisting many products deveopment and scaling.
-- 💞️ We are looking to collaborate with you.
-- 📫 it@Iaastha.com
+- 👋 Hi, 
+- 👀 Interested in assisting startups and founders to get into the market smoothly.
+- 🌱 Currently assisting many products deveopment and scaling.
+- 💞️ Looking to collaborate with you.
+- 📫 ab@Iaastha.com
 
 <!---
 iaasthatech/iaasthatech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
